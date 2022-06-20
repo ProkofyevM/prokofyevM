@@ -1,4 +1,4 @@
-![Header](https://github.com/ProkofyevM/prokofyevM/blob/main/assets/frontend.png)
+![Header](https://github.com/ProkofyevM/prokofyevM/blob/main/assets/Image.jpg))
 
 
 About me
