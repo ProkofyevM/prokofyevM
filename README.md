@@ -11,4 +11,4 @@
 ![React](https://img.shields.io/badge/React-darkblue?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/REDUX-green?style=for-the-badge&logo=redux)
 
-Follow 
+
