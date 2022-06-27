@@ -1,14 +1,16 @@
-![Header](https://github.com/ProkofyevM/prokofyevM/blob/main/assets/img2.png)
+# ***Frontend Developer***
 
 ## I am a beginner Frontend developer
 
 
 ### My skills
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-darkblue?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/REDUX-green?style=for-the-badge&logo=redux)
+![HTML](https://img.shields.io/badge/HTML-orange?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=plastic&logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-darkviolet?style=plastic&logo=sass)
+![JS](https://img.shields.io/badge/JS-black?style=plastic&logo=javascript)
+![REACT](https://img.shields.io/badge/REACT-black?style=plastic&logo=react)
+![REDUX](https://img.shields.io/badge/REDUX-black?style=plastic&logo=redux)
+
 
 
